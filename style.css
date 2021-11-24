@@ -1,0 +1,75 @@
+.col-1{
+    background-image: url(https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.col-2{
+    background-image: url(https://winnebagoanimals.org/wp-content/uploads/2021/07/CatImage.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.col-3{
+    background-image: url(https://s36537.pcdn.co/wp-content/uploads/2018/03/A-gray-cat-staring-looking-confused-or-surprised.jpg.optimal.jpg);
+    width: 33.4%;
+    height: 20vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.col-4{
+    background-image: url(https://cdn.shopify.com/s/files/1/1834/5785/files/how_long_can_a_cat_go_without_blinking_large.jpg?v=1595062553);
+    width: 33.3%;
+    height: 20vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.col-5{
+    background-image: url(https://images.unsplash.com/photo-1603348929190-0257ea827c97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80);
+    width: 33.3%;
+    height: 20vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.col-6{
+    background-image: url(https://kdvr.com/wp-content/uploads/sites/11/2021/09/GettyImages-1286723413.jpg?strip=1);
+    width:25%;
+    height: 50vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.col-7{
+    background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F08%2F06%2Fcat.jpg&q=85);
+    width: 30%;
+    height: 50vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.col-8{
+    background-image: url(https://static.standard.co.uk/2021/06/24/12/24110008-9ebede3c-78cc-406a-9698-b09eb033c15a.jpg?width=968&auto=webp&quality=75&crop=968%3A645%2Csmart);
+    width: 15%;
+    height: 50vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.col-9{
+    background-image: url(https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/e9/6e97c275-3a3e-516e-b2ca-517c66b8cb93/614ba67504242.image.jpg?resize=1200%2C800);
+    width: 30%;
+    height: 50vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+div{
+    border: 1px solid black;
+}
